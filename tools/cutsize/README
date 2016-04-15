@@ -1,0 +1,19 @@
+Copy the images to input/ and then run the script.
+Make sure the files are descriptive and properly named
+(not just 001343.JPG but bus-stop-amuda.jpg)
+
+  $ python cutsize.py
+
+banner: wide images used in normal articles, especially at
+the top of the page.
+
+thumbnail: small box shaped images used in the side of articles.
+
+img: like banner but more square and taller.
+
+normal: size isn't changed but the file is renamed according
+to the proper naming scheme. This is used for galleries.
+
+* Galleries will use img for the pictures in the article,
+and normal for the images once clicked.
+
