@@ -43,7 +43,7 @@ def parse_article(interface, idx):
     sections = raw.split("---\n")
     assert(len(sections) == 3)
     title_data = tuple(sections[0].split("\n")[:-1])
-    assert(len(title_data) == 5)
+    assert(len(title_data) == 4)
     date = datetime.datetime.strptime(title_data[1], "%b %d, %Y")
     categories = [category.strip() for category in title_data[3].split(",")]
     # Translate them to foreign language if needed
@@ -52,7 +52,6 @@ def parse_article(interface, idx):
         "title": title_data[0],
         "date": date,
         "preview": title_data[2],
-        "comments_url": title_data[4],
         "categories": categories,
         "blurb": sections[1],
         "main": sections[2]
