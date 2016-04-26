@@ -1,11 +1,13 @@
 Mesopotamia, the War for Land and Water
-Jan 22, 2016
-${data_prefix}pics/denge-cudi-preview.jpg
+Apr 26, 2016
+${data_prefix}pics/war_land_water2-thumbnail.jpg
 Special Reports
 ---
 Dengê Cûdî, the voice of the Rojava revolution has been silenced due to technical problems. They need $10K in order to go back on air. We want to help them.
 ---
 <p>The next wars will not be fought over gold or oil, but over much more basic resources. Especially in the Middle East.</p>
+
+@banner: ${data_prefix}pics/war_land_water1-banner.jpg
 
 <p>While natural reservoirs of petrol and gas continue to be contested among the many groups currently fighting in Syria, Turkey, and Iraq, control over water and arable land has become much more important.</p>
 
@@ -16,6 +18,8 @@ Dengê Cûdî, the voice of the Rojava revolution has been silenced due to techn
 <p>Water has become an important source of power (both electrical and political) in recent decades. In 2013, Egypt almost declared war on Ethiopia over building a dam on the Blue Nile that threatened Egypt's water security. Control over the springs of Euphrates and Tigris is a major source of conflict between Turkey and Syria as well as the Kurds who inhabit this area.</p>
 
 <p>It is the Kurds, in alliance with Arabs, Assyrians, and other minorities of the region, who have put up by far the most noteworthy resistance against Daesh. Their armed forces, the YPG and QSD, have not only broken the Jihadist's siege on Kobanê but also expelled Daesh and Al-Nusra from most of northern Syria and pushed south until the suburbs of Der ez-Zor and Raqqa.</p>
+
+@banner: ${data_prefix}pics/war_land_water2-banner.jpg
 
 <p>The territory they control, between the Euphrates and Tigris, is known as Rojava. The other sides of those rivers are in the hands of Daesh and Turkey respectively, both forces hostile to Rojava.</p>
 
@@ -28,6 +32,8 @@ Dengê Cûdî, the voice of the Rojava revolution has been silenced due to techn
 <p>Beyond the frontlines of an escalating conflict, Rojava is at the stage of a social revolution. Its main principles are democracy, women's freedom, and ecology.</p>
 
 <p>The ecological approach is now vital for creating Rojava's economy. By taking the <a href="http://www.dw.com/en/syrian-kurds-take-strategic-dam-from-islamic-state/a-18943392" target="_blank">Tishreen dam</a> in the Euphrates Rojava has made an important step away from dependence on fossil fuels and ill-equipped refineries. But the only safe future for Rojava's water, energy, and agriculture lies in decentralization.</p>
+
+@banner: ${data_prefix}pics/war_land_water3-banner.jpg
 
 <p>Fertilizer needs to be produced locally from organic waste. Solar energy technology needs to be advanced. Euphrates and Tigris must supply Rojava with the needed water.</p>
 
