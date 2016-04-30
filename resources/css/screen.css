@@ -116,6 +116,15 @@ img::selection 		{ background: transparent; }
 img::-moz-selection	{ background: transparent; }
 #wrap { -webkit-tap-highlight-color: rgb(239,248,247); }
 
+/* ----- NOTICE ----- */
+.notice {
+	background: white;
+	border: 5px solid black;
+	color: red;
+	padding: 10px;
+	text-align: center;
+	}
+
 /* ----- LINKS ----- */
 
 a, a:link, a:visited {
@@ -222,7 +231,7 @@ h1#branding {
 	width: 120px;
 	height: 120px;
 	text-indent: -999em;
-	background: url(../img/rojava-plan.png) no-repeat 0 0;
+	background: url(../img/logo_rojava.png) no-repeat 0 0;
 	-webkit-transition: all .3s ease;
 	   -moz-transition: all .3s ease;
 	     -o-transition: all .3s ease;
