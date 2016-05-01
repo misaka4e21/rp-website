@@ -76,7 +76,7 @@ def generate_index_html(interface):
         if not article:
             break
         link = interface.link(article_output_filename(article))
-        # apt-get install language-pack-es
+        # apt-get install language-pack-fr
         # OR dpkg-reconfigure locales
         date_formatted = article["date"].strftime("%b %d, %Y")
         output_page += """
