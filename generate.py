@@ -62,7 +62,8 @@ class Interface:
         self.params = {
             "title": self.c('title'),
             "data_prefix": self.data_prefix,
-            "prefix": self.link_prefix
+            "prefix": self.link_prefix,
+            "res_prefix": self.link_prefix+'resources/',
         }
 
     def _filter(self, page, user_params):

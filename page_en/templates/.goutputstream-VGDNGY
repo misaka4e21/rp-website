@@ -8,8 +8,8 @@
 	<section id="featured">
 <h3><a href="https://coopfunding.net/en/campaigns/feed-the-revolution" target="_blank">#FeedTheRevolution - Our Crowdfunding Campaign is Running!</a></h3>
 <span style="top:5px;"><a href="https://coopfunding.net/en/campaigns/feed-the-revolution" target="_blank"><em>Check it out</em></a></span>
-        <video width="100%" controls poster="${data_prefix}uploads/videos/sport-rojava.jpg">
-            <source src="${data_prefix}uploads/videos/sport-rojava.webm" type="video/webm">
+        <video width="100%" controls poster="${res_prefix}uploads/videos/sport-rojava.jpg">
+            <source src="${res_prefix}uploads/videos/sport-rojava.webm" type="video/webm">
         </video>
     </section>
 
