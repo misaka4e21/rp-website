@@ -1,0 +1,104 @@
+{
+  "global": {
+    "base_url": "http://RojavaPlan.com/",
+    "fallback": "en",
+    "build_prefix": "docs/",
+    "data_prefix": "./",
+    "link_prefix": "/rp-website/",
+    "articles_prefix": "articles/",
+    "main_pages": [
+      "join",
+      "join-1-what-can-you-do",
+      "join-2-learn-kurdish",
+      "join-3-preparing-yourself",
+      "join-3-1-resources",
+      "join-3-2-personal-account",
+      "join-4-the-journey",
+      "join-5-what-to-expect",
+      "join-6-ready",
+      "contribute",
+      "donate",
+      "about",
+      "faqs",
+      "contact"
+    ]
+  },
+  "en": {
+    "locale": "en_US.UTF-8",
+    "data_prefix": "./page_en/",
+    "title": "What you've been waiting for.",
+    "l10n": {
+      "older_entries": "Older Entries »",
+      "full_archive": "Full archive »",
+      "full_archive_content": "Displaying all news entries for the month of",
+      "read": "Read »",
+      "continue_reading": "Continue Reading »",
+      "news_archive": "News Archive",
+      "news_archive_content": "Every news article we've published lies here.",
+      "tagged": "Displaying all news items tagged with",
+      "news": "News",
+      "news_content": "Follow the latest goings ons in the revolutionary world of Rojava."
+    },
+    "categories": {
+      "Society":         "society",
+      "Economy":         "economy",
+      "Health":          "health",
+      "Science & Tech":  "scitech",
+      "Arts & Music":    "artsmusic",
+      "Frontline":       "frontline",
+      "World":           "world",
+      "Video Reports":   "videoreports",
+      "In Pictures":     "inpictures",
+      "Special Reports": "specialreports",
+      "Explainers":      "explainers",
+      "Opinion":         "opinion"
+    }
+  },
+  "es": {
+    "locale": "es_ES.UTF-8",
+    "build_prefix": "docs/es/",
+    "data_prefix": "./page_es/",
+    "link_prefix": "/rp-website/es/",
+    "title": "Lo que has estado esperando.",
+    "l10n": {
+      "older_entries": "Artículos anteriores »",
+      "full_archive": "Archivo entero »",
+      "full_archive_content": "Mostrando todos los artículos nuevos del mes de",
+      "read": "Leer »",
+      "continue_reading": "Sigue leyendo »",
+      "news_archive": "Archivo de Noticias",
+      "news_archive_content": "Todos los artículos que hemos publicado están aquí.",
+      "tagged": "Mostrando todos los elementos nuevos de la categoría",
+      "news": "News",
+      "news_content": "Entérate de lo que pasa en el mundo revolucionario de Rojava."
+    },
+    "categories": {
+      "Sociedad":         "sociedad",
+      "Economía":         "economia",
+      "Salud":          "salud",
+      "Ciencia & Tecnología":  "ciencia",
+      "Arte & Música":    "arte",
+      "Guerra":       "guerra",
+      "Mundo":           "mundo",
+      "Reportajes en Vídeo":   "video",
+      "En Imágenes":     "imagenes",
+      "Reportajes Especiales": "especial",
+      "Explicaciones":      "explicaciones",
+      "Opinión":         "opinion"
+    },
+    "mappings": {
+        "Society":          "Sociedad",
+        "Economy":          "Economía",
+        "Health":           "Salud",
+        "Science & Tech":   "Ciencia & Tecnología",
+        "Arts & Music":     "Arte & Música",
+        "Frontline":        "Guerra",
+        "World":            "Mundo",
+        "Video Reports":    "Reportajes en Vídeo",
+        "In Pictures":      "En Imágenes",
+        "Special Reports":  "Reportajes Especiales",
+        "Explainers":       "Explicaciones",
+        "Opinion":          "Opinión"
+    }
+  }
+}
